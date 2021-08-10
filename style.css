@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+hr{
+    color:lightgray;
+}
+
 #page{
     /* width:1430px; */
     /* min-height:780px; */
